@@ -1,0 +1,59 @@
+body{
+  background-color: #05cafc;
+  font-size: 1.5em;
+  color: grey
+}
+
+h1,h2,h3{
+  color: red
+}
+
+span:hover{
+  color: green
+}
+
+a{
+  color: white
+}
+
+.imgmezzi{
+  width: 400px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  border: 5px;
+}
+
+.imgmezzi:hover{
+  border: 5px solid red
+}
+
+table{
+  border-collapse: collapse;
+  border: 1px solid black;
+  float: right;
+}
+
+tr{
+  border-collapse: collapse;
+  border: 0.25px solid black
+}
+
+tr:hover{
+  background-color: green;
+}
+
+td{
+  color: whitesmoke;
+  border-collapse: collapse;
+  border: 0.25px solid black;
+  float: left;
+  width: 300px
+}
+
+li:hover{
+  color: green
+}
+
+a:hover{
+  color: blue
+}
