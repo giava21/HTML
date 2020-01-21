@@ -4,19 +4,15 @@ body{
   color: white !important
 }
 
-#reggio-ciano01{
-  width: 100%
-}
-
-.center {
-  margin: auto;
-  width: 50%;
-  border: 3px solid green;
-  padding: 10px;
-}
-
 h1,h2,h3{
   color: red
+}
+
+#stazione{
+  width: 50%;
+  float: right;
+  padding-left: 10px;
+  padding-bottom: 10px
 }
 
 span:hover{
@@ -27,19 +23,24 @@ a{
   color: white
 }
 
-table{
-  padding-top: 50px;
-  padding-left: 50px
+div{
+  padding-bottom: 20px
 }
 
-.imgmezzi{
-  width: 30%;
-  border: 5px;
-  
+a:hover{
+  color: blue
 }
 
-#fermate{
-  width: 70%
+span:hover{
+  color: green
+}
+
+#reggio-ciano01{
+  width: 100%
+}
+
+a{
+  color: white
 }
 
 #instagram{
