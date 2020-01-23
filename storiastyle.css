@@ -4,7 +4,12 @@ body{
   color: white !important
 }
 
-h1,h2,h3{
+h1{
+  color: red;
+  padding-top: 20px
+}
+
+h2,h3{
   color: red
 }
 
@@ -23,10 +28,6 @@ a{
   color: white
 }
 
-div{
-  padding-bottom: 20px
-}
-
 a:hover{
   color: blue
 }
@@ -37,10 +38,6 @@ span:hover{
 
 #reggio-ciano01{
   width: 100%
-}
-
-a{
-  color: white
 }
 
 #instagram{
@@ -63,8 +60,4 @@ div{
 
 a:hover{
   color: blue
-}
-
-#card5{
-  width:100%
 }
