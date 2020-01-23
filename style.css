@@ -39,7 +39,8 @@ table{
 }
 
 #fermate{
-  width: 70%
+  width: 70%;
+  float: center
 }
 
 #instagram{
