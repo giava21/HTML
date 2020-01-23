@@ -14,10 +14,14 @@ h2,h3{
 }
 
 #stazione{
-  width: 50%;
+  width: 40%;
   float: right;
   padding-left: 10px;
   padding-bottom: 10px
+}
+
+#card1{
+  padding-top: 20px;
 }
 
 span:hover{
